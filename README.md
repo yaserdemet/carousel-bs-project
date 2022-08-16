@@ -1,6 +1,6 @@
 ![Animation](https://user-images.githubusercontent.com/99739515/171753129-ee9eeae0-a4cc-482d-8014-f4c58094013b.gif)
+[👉check page here](https://yaserdemet.github.io/carousel-bs-project/)
 
-# BOOTSTRAP : (HC-15)
 
 ## Description
 Project aims to create website within bootstrap .
